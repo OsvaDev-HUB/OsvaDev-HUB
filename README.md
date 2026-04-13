@@ -42,7 +42,6 @@
   <h3 style="color:#a855f7;">Backend</h3>
   <p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45" alt="FastAPI"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
@@ -65,6 +64,7 @@
   <p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   </p>
 
   <!-- Tools -->
