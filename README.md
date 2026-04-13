@@ -4,13 +4,13 @@
 
 <h3 align="center">A passionate Chilean software enthusiast, always learning, improving, and developing real-world solutions</h3>
 
--🔭 I am currently studying at the Technological University of Chile, INACAP, where I am completing my first professional degree as a Software Analyst and Full Stack Developer. I plan to continue my academic journey toward a full Software Engineering degree and further specialize to strengthen my professional growth in the software industry.
+<p align="center">-🔭 I am currently studying at the Technological University of Chile, INACAP, where I am completing my first professional degree as a Software Analyst and Full Stack Developer. I plan to continue my academic journey toward a full Software Engineering degree and further specialize to strengthen my professional growth in the software industry.</p>
 
--👯 I’m looking to collaborate on **full-stack projects.**
+<p align="center">-👯 I’m looking to collaborate on **full-stack projects.**</p>
 
-- 📫 How to reach me: **osvaldouhart@hotmail.com**
+<p align="center">- 📫 How to reach me: **osvaldouhart@hotmail.com**</p>
 
-- ⚡ What I like to do: **I enjoy reading, gaming (especially World of Warcraft), learning new technologies… and of course, coding.**
+<p align="center">- ⚡ What I like to do: **I enjoy reading, gaming (especially World of Warcraft), learning new technologies… and of course, coding.**</p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
