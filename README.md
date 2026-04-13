@@ -38,16 +38,18 @@
 ">
   <h2 style="text-align:center; color:#ffffff; margin-bottom:25px;">🧰 Tech Stack</h2>
 
-  <!-- Backend -->
-  <h3 style="color:#a855f7;">Backend</h3>
-  <p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45" alt="FastAPI"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
-    <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/></a
-    
-  </p>
+  <!-- Language's -->
+<h3 style="color:#a855f7;">Language's</h3>
+<p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
   <!-- Front-End -->
   <h3 style="color:#38bdf8;">Front-End</h3>
