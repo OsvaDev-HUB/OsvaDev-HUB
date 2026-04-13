@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Chilean software enthusiast, always learning, improving, and developing real-world solutions</h3>
 
-- 🔭 I’m currently studying at the Technological University of Chile, INACAP, where I will first earn my degree as a Software Analyst | Full Stack Developer. After that, I plan to continue in the academic pathway to achieve the full Software Engineering degree and even beyond that, I aim to keep specializing and growing as a professional in the software world.
+🔭 I am currently studying at the Technological University of Chile, INACAP, where I am completing my first professional degree as a Software Analyst and Full Stack Developer. I plan to continue my academic journey toward a full Software Engineering degree and further specialize to strengthen my professional growth in the software industry.
 
 - 👯 I’m looking to collaborate on **full-stack projects.**
 
@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
