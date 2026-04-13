@@ -52,14 +52,14 @@
 </p>
 
   <!-- Framework's -->
-<h3 style="color:#38bdf8;">Front-End & Web Technologies</h3>
+<h3 style="color:#38bdf8;">Framework's</h3>
 <p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="45" height="45" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="REST API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/api.png" width="45" height="45" alt="REST API"/>
 </p>
 
   <!-- Databases -->
