@@ -70,12 +70,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/OsvaDev-HUB">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madn3ss-art&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Madn3ss-art&style=flat-square&color=blueviolet" alt="Visitor Count" />
-</div>
