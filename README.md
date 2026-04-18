@@ -1,82 +1,81 @@
-<h1 align="center">Hi, I'm Osvaldo Uhart👋</a></h1>
-<p align="center"><i>Always building, always learning.</i></p>
+<h1 align="center">Hi, I'm Osvaldo Uhart 👋</h1>
 
+<p align="center">
+  <i>Always building, always learning.</i>
+</p>
 
-<h3 align="center">A passionate Chilean software enthusiast, always learning, improving, and developing real-world solutions</h3>
+<h3 align="center">A passionate Chilean software enthusiast, always learning, improving, and developing real-world solutions.</h3>
 
-<p align="center">-🔭 I am currently studying at the Technological University of Chile, INACAP, where I am completing my first professional degree as a Software Analyst and Full Stack Developer. I plan to continue my academic journey toward a full Software Engineering degree and further specialize to strengthen my professional growth in the software industry.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ouhart/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:osvaldouhart@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p align="center">-👯 I’m looking to collaborate on **full-stack projects.**</p>
+---
 
-<p align="center">- 📫 How to reach me: **osvaldouhart@hotmail.com**</p>
+### 👨‍💻 About Me
 
-<p align="center">- ⚡ What I like to do: **I enjoy reading, gaming (especially World of Warcraft), learning new technologies… and of course, coding.**</p>
+- 🔭 I am currently studying at the **Technological University of Chile (INACAP)**, completing my degree as a **Software Analyst and Full Stack Developer**.
+- 🌱 I plan to continue my academic journey toward a full **Software Engineering degree** to further specialize in the software industry.
+- 👯 I’m looking to collaborate on **Full-Stack projects** and challenging open-source initiatives.
+- ⚡ **Fun fact:** I enjoy reading, gaming (especially World of Warcraft), learning new technologies… and of course, coding!
 
-<h3 align="center">Connect with me:</h3>
+---
+
+### 🧰 Tech Stack
+
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouhart/)
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Madn3ss-art&style=flat-square&color=blueviolet)
-
-</div>
-
+  <br />
+  <p><strong>Languages</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <br /><br />
   
+  <p><strong>Frameworks & Libraries</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <br /><br />
+  
+  <p><strong>Databases & Tools</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<div style="
-  background-color: #0d0d0d;
-  padding: 30px;
-  border-radius: 16px;
-  box-shadow: 0 0 25px rgba(0,0,0,0.7);
-  max-width: 850px;
-  margin: auto;
-  font-family: Arial, sans-serif;
-  color: #e0e0e0;
-">
-  <h2 style="text-align:center; color:#ffffff; margin-bottom:25px;">🧰 Tech Stack</h2>
+---
 
-  <!-- Language's -->
-<h3 style="color:#a855f7;">Language's</h3>
-<p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</p>
+### 📊 GitHub Stats
 
-  <!-- Framework's -->
-<h3 style="color:#38bdf8;">Framework's</h3>
-<p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/api.png" width="45" height="45" alt="REST API"/>
-</p>
-
-  <!-- Databases -->
-  <h3 style="color:#4ade80;">Databases</h3>
-  <p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  </p>
-
-  <!-- Tools -->
-<h3 style="color:#facc15;">Tools</h3>
-<p align="left" style="display:flex; gap:18px; flex-wrap:wrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle VM VirtualBox"/>
-</p>
-
+<div align="center">
+  <a href="https://github.com/Madn3ss-art">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madn3ss-art&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Madn3ss-art&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
