@@ -8,6 +8,7 @@ I turn real operational problems into reliable software — from polished interf
 and secure APIs to databases, automation, and desktop tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouhart/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-osvadevhub.cl-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.osvadevhub.cl/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osvaldouhart@hotmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=OsvaDev-HUB&style=for-the-badge&color=238636&label=PROFILE+VIEWS)](https://github.com/OsvaDev-HUB)
 
@@ -34,27 +35,47 @@ outside_code: reading, gaming, new technologies, and World of Warcraft
 
 ## `~/featured-work`
 
+> My most substantial projects are kept private while they are under active
+> development. The summaries below focus on the engineering decisions and
+> problems solved; implementation details are available upon request.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Nguruvilu Ecosystem</h3>
       <p>
-        An end-to-end platform for customer engagement and raffle operations:
-        public registration flows, RBAC administration, auditability, queued
-        notifications, analytics, and desktop-assisted thermal printing.
+        A production-oriented hospitality and customer operations ecosystem.
+        It connects public engagement experiences with secure administration,
+        raffles, customer history, analytics, audit trails, queued
+        notifications, and desktop-assisted thermal printing.
       </p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Electron</code> <code>.NET</code></p>
-      <a href="https://github.com/OsvaDev-HUB/Nguruvilu-Desktop-Releases">View desktop releases →</a>
+      <sub>Private repository · full-stack product engineering</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>Front-End API Project</h3>
+      <h3>Semestre Zen</h3>
       <p>
-        A React project focused on consuming external APIs, structuring
-        reusable components, managing application state, and delivering a
-        responsive user experience.
+        An academic planning platform that helps university students manage
+        subjects, weighted grades, semester averages, and target-grade
+        forecasts, backed by zero-trust authentication and row-level data
+        isolation.
       </p>
-      <p><code>React</code> <code>JavaScript</code> <code>REST APIs</code> <code>CSS</code></p>
-      <a href="https://github.com/OsvaDev-HUB/Evaluaci-n-N-4-Programaci-n-Front-End-">Explore the repository →</a>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Zod</code> <code>Tailwind CSS</code></p>
+      <sub>Private repository · secure student productivity</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>SmartShift</h3>
+      <p>
+        A workforce scheduling SaaS concept built around operational
+        constraints. It models staffing coverage by area and shift, generates
+        assignments from employee availability, detects workload and rest
+        conflicts, enforces hierarchical roles, and records administrative
+        changes through complete audit logs.
+      </p>
+      <p><code>Laravel 12</code> <code>PHP 8.2</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code> <code>Vite</code> <code>Tailwind CSS</code></p>
+      <sub>Private repository · scheduling algorithms and operational tooling</sub>
     </td>
   </tr>
 </table>
