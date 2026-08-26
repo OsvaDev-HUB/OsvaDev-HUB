@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title description">
-  <title id="title">Osvaldo Uhart developer fastfetch</title>
-  <desc id="description">A terminal-inspired summary of Osvaldo Uhart's role, location, studies, focus, stack, data tools, platform, and current status.</desc>
+  <title id="title">Perfil de desarrollador de Osvaldo Uhart en estilo Fastfetch</title>
+  <desc id="description">Resumen inspirado en una terminal sobre el rol, ubicación, estudios, enfoque, tecnologías, datos, plataforma y estado actual de Osvaldo Uhart.</desc>
 
   <defs>
     <linearGradient id="terminalBackground" x1="0" y1="0" x2="1" y2="1">
@@ -39,26 +39,26 @@
     <text x="430" y="105" fill="#f0f6fc" font-size="22" font-weight="700">osvaldo@github</text>
     <text x="430" y="130" fill="#30363d" font-size="17">────────────────────────────────────────────</text>
 
-    <text x="430" y="165" class="label">role</text>
-    <text x="535" y="165" class="value">Software Analyst · Full-Stack Developer</text>
+    <text x="430" y="165" class="label">rol</text>
+    <text x="570" y="165" class="value">Analista Programador · Desarrollador Full Stack</text>
 
-    <text x="430" y="197" class="label">studies</text>
-    <text x="535" y="197" class="value">INACAP · Chile</text>
+    <text x="430" y="197" class="label">estudios</text>
+    <text x="570" y="197" class="value">INACAP · Chile</text>
 
-    <text x="430" y="229" class="label">focus</text>
-    <text x="535" y="229" class="value">Product engineering · security · UX</text>
+    <text x="430" y="229" class="label">enfoque</text>
+    <text x="570" y="229" class="value">Ingeniería de producto · seguridad · UX</text>
 
-    <text x="430" y="261" class="label">stack</text>
-    <text x="535" y="261" class="value">JavaScript · TypeScript · Node.js · React</text>
+    <text x="430" y="261" class="label">tecnologías</text>
+    <text x="570" y="261" class="value">JavaScript · TypeScript · Node.js · React</text>
 
-    <text x="430" y="293" class="label">data</text>
-    <text x="535" y="293" class="value">PostgreSQL · Supabase · MongoDB</text>
+    <text x="430" y="293" class="label">datos</text>
+    <text x="570" y="293" class="value">PostgreSQL · Supabase · MongoDB</text>
 
-    <text x="430" y="325" class="label">platform</text>
-    <text x="535" y="325" class="value">Linux · Git · Docker · Electron · .NET</text>
+    <text x="430" y="325" class="label">plataforma</text>
+    <text x="570" y="325" class="value">Linux · Git · Docker · Electron · .NET</text>
 
-    <text x="430" y="357" class="label">status</text>
-    <text x="535" y="357" fill="#3fb950" font-size="17">building software for real-world use</text>
+    <text x="430" y="357" class="label">estado</text>
+    <text x="570" y="357" fill="#3fb950" font-size="17">creando software para problemas reales</text>
   </g>
 
   <text x="42" y="391" class="mono" fill="#3fb950" font-size="15">$</text>
