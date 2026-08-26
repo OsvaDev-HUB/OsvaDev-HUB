@@ -20,11 +20,13 @@ Soy un desarrollador chileno y **estudiante de Analista Programador y Desarrollo
 
 Mi trabajo actual se centra en el **desarrollo de productos full stack**, herramientas administrativas seguras, automatización y software que conecta experiencias web con operaciones del mundo real. Mi objetivo es continuar hacia la **Ingeniería de Software**, profundizando mis conocimientos de arquitectura, seguridad y sistemas escalables.
 
-```yaml
-construyendo: aplicaciones full stack orientadas a producción
-aprendiendo: arquitectura de software, seguridad de aplicaciones y DevOps
-disponible_para: colaboración, código abierto e ideas de producto desafiantes
-fuera_del_codigo: lectura, videojuegos, nuevas tecnologías y World of Warcraft
+```json
+{
+  "construyendo": "aplicaciones full stack orientadas a producción",
+  "aprendiendo": "arquitectura de software, seguridad de aplicaciones y DevOps",
+  "disponible_para": "colaboración, código abierto e ideas de producto desafiantes",
+  "fuera_del_codigo": "lectura, videojuegos, nuevas tecnologías y World of Warcraft"
+}
 ```
 
 ## `~/proyectos-destacados`
