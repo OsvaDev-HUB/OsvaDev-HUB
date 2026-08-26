@@ -43,7 +43,13 @@ fuera_del_codigo: lectura, videojuegos, nuevas tecnologías y World of Warcraft
         sorteos, historial de clientes, analítica, trazabilidad de auditoría,
         notificaciones en cola e impresión térmica asistida desde escritorio.
       </p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Electron</code> <code>.NET</code></p>
+      <p>
+        <code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS 3</code> <code>JavaScript ES6+</code> <code>Vite 8</code>
+        <code>Node.js</code> <code>Express 5</code> <code>Supabase</code> <code>PostgreSQL</code> <code>JWT</code>
+        <code>Resend</code> <code>Google Search Console API</code> <code>Chart.js</code> <code>Three.js</code> <code>Electron 43</code>
+        <code>C#</code> <code>.NET 10</code> <code>WinForms</code> <code>Avalonia UI 12</code> <code>CUPS</code> <code>ESC/POS</code>
+        <code>Jest</code> <code>Supertest</code> <code>Playwright</code> <code>Vercel</code> <code>Railway</code> <code>GitHub Actions</code>
+      </p>
       <sub>Repositorio privado · ingeniería de productos full stack</sub>
     </td>
     <td width="50%" valign="top">
@@ -54,7 +60,12 @@ fuera_del_codigo: lectura, videojuegos, nuevas tecnologías y World of Warcraft
         promedios semestrales y proyecciones de notas objetivo, respaldada por
         autenticación de confianza cero y aislamiento de datos por fila.
       </p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Zod</code> <code>Tailwind CSS</code></p>
+      <p>
+        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript 5</code> <code>Tailwind CSS 4</code>
+        <code>Supabase SSR</code> <code>Supabase Auth</code> <code>PostgreSQL</code> <code>RLS</code>
+        <code>Zod 4</code> <code>Framer Motion 13</code> <code>Lucide React</code> <code>Vitest 4</code>
+        <code>ESLint 9</code> <code>GitHub Actions</code>
+      </p>
       <sub>Repositorio privado · productividad estudiantil segura</sub>
     </td>
   </tr>
@@ -63,7 +74,13 @@ fuera_del_codigo: lectura, videojuegos, nuevas tecnologías y World of Warcraft
 ## `~/herramientas`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,cs,html,css,react,nodejs,express,laravel,dotnet,electron,postgres,supabase,mongodb,mysql,docker,git,linux,vscode&perline=11&theme=dark" alt="Tecnologías utilizadas por Osvaldo Uhart" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php&theme=dark" height="48" alt="JavaScript, TypeScript, Python, Go y PHP" />
+  <img src="./assets/claude.svg" width="48" height="48" alt="Claude" title="Claude" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" height="48" alt="HTML, CSS, React, Node.js y Express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel" />
+  <img src="./assets/codex.svg" width="48" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
+  <img src="https://skillicons.dev/icons?i=electron,postgres,supabase,mongodb,mysql,docker,git,linux,vscode&theme=dark" height="48" alt="Electron, PostgreSQL, Supabase, MongoDB, MySQL, Docker, Git, Linux y VS Code" />
 </div>
 
 <br />
