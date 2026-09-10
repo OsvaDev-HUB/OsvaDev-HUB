@@ -87,14 +87,6 @@ Mi trabajo actual se centra en el **desarrollo de productos full stack**, herram
 
 <br />
 
-| Área | Tecnologías |
-| --- | --- |
-| **Front end** | JavaScript, TypeScript, React, HTML, CSS, Bootstrap, interfaces adaptables |
-| **Back end** | Node.js, Express, Laravel, PHP, Python, Go, .NET |
-| **Datos** | PostgreSQL, Supabase, MongoDB, MySQL |
-| **Plataforma** | Linux, Git, GitHub Actions, Docker, Electron, VS Code |
-| **Enfoque técnico** | RBAC, flujos seguros, APIs, automatización, pruebas, mantenibilidad |
-
 ## `~/estadisticas-github`
 
 <div align="center">
