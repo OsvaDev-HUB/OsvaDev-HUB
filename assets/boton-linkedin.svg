@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="64" viewBox="0 0 282 64" shape-rendering="crispEdges" role="img" aria-label="LinkedIn: in/ouhart">
+  <!-- Sombra pixelada -->
+  <polygon transform="translate(4 4)" fill="#2E1065" points="4,0 274,0 274,4 278,4 278,56 274,56 274,60 4,60 4,56 0,56 0,4 4,4" />
+  <!-- Borde y fondo con esquinas escalonadas -->
+  <polygon fill="#8B5CF6" points="4,0 274,0 274,4 278,4 278,56 274,56 274,60 4,60 4,56 0,56 0,4 4,4" />
+  <polygon fill="#140D26" points="8,4 270,4 270,8 274,8 274,52 270,52 270,56 8,56 8,52 4,52 4,8 8,8" />
+  <rect x="8" y="4" width="262" height="3" fill="#2A1A52" />
+
+  <!-- Icono de LinkedIn en pixel-art -->
+  <g transform="translate(16 12)">
+    <path fill="#8B5CF6" d="M3 0h30v3h-30zM0 3h36v3h-36zM0 6h6v3h-6zM12 6h24v3h-24zM0 9h36v3h-36zM0 12h6v3h-6zM12 12h3v3h-3zM30 12h6v3h-6zM0 15h6v3h-6zM12 15h3v3h-3zM21 15h3v3h-3zM30 15h6v3h-6zM0 18h6v3h-6zM12 18h3v3h-3zM21 18h3v3h-3zM30 18h6v3h-6zM0 21h6v3h-6zM12 21h3v3h-3zM21 21h3v3h-3zM30 21h6v3h-6zM0 24h6v3h-6zM12 24h3v3h-3zM21 24h3v3h-3zM30 24h6v3h-6zM0 27h6v3h-6zM12 27h3v3h-3zM21 27h3v3h-3zM30 27h6v3h-6zM0 30h36v3h-36zM3 33h30v3h-30z" />
+    <path fill="#F3E8FF" d="M6 6h6v3h-6zM6 12h6v3h-6zM15 12h15v3h-15zM6 15h6v3h-6zM15 15h6v3h-6zM24 15h6v3h-6zM6 18h6v3h-6zM15 18h6v3h-6zM24 18h6v3h-6zM6 21h6v3h-6zM15 21h6v3h-6zM24 21h6v3h-6zM6 24h6v3h-6zM15 24h6v3h-6zM24 24h6v3h-6zM6 27h6v3h-6zM15 27h6v3h-6zM24 27h6v3h-6z" />
+  </g>
+
+  <!-- Textos -->
+  <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" text-rendering="geometricPrecision">
+    <text x="64" y="29" font-size="16" font-weight="700" fill="#F3E8FF">LinkedIn</text>
+    <text x="64" y="46" font-size="12" fill="#C084FC">in/ouhart</text>
+  </g>
+</svg>

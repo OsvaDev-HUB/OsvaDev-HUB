@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428" height="452" viewBox="0 0 428 452" shape-rendering="crispEdges" role="img" aria-label="Sobre mí: Analista Programador y desarrollador full stack de Río Bueno, Chile. Estudia en INACAP. Construye aplicaciones full stack, herramientas administrativas y automatización. Aprende arquitectura de software, seguridad de aplicaciones y DevOps. Meta: Ingeniería de Software.">
+  <!-- Sombra pixelada -->
+  <polygon transform="translate(4 4)" fill="#2E1065" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
+  <!-- Borde y fondo con esquinas escalonadas -->
+  <polygon fill="#8B5CF6" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
+  <polygon fill="#140D26" points="8,4 416,4 416,8 420,8 420,440 416,440 416,444 8,444 8,440 4,440 4,8 8,8" />
+
+  <!-- Barra de pestañas con el archivo abierto -->
+  <rect x="4" y="4" width="416" height="30" fill="#1E1238" />
+  <rect x="4" y="4" width="130" height="30" fill="#140D26" />
+  <rect x="4" y="4" width="130" height="3" fill="#C084FC" />
+  <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" text-rendering="geometricPrecision">
+    <text x="18" y="24" font-size="12" fill="#E9D5FF">sobre-mi.js</text>
+  </g>
+
+  <!-- Codigo con colores morados -->
+  <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="13" text-rendering="geometricPrecision">
+    <text x="34" y="64" text-anchor="end" fill="#4C3A78">1</text>
+    <text x="46" y="64" xml:space="preserve"><tspan fill="#C084FC" font-weight="700">const</tspan> <tspan fill="#F3E8FF" font-weight="700">osvaldo</tspan> <tspan fill="#7C6AA8">=</tspan> <tspan fill="#7C6AA8">{</tspan></text>
+    <text x="34" y="83" text-anchor="end" fill="#4C3A78">2</text>
+    <text x="46" y="83" xml:space="preserve">  <tspan fill="#A78BFA">rol</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#E9D5FF">&quot;Analista Programador&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="102" text-anchor="end" fill="#4C3A78">3</text>
+    <text x="46" y="102" xml:space="preserve">  <tspan fill="#A78BFA">enfoque</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#E9D5FF">&quot;Desarrollo Full Stack&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="121" text-anchor="end" fill="#4C3A78">4</text>
+    <text x="46" y="121" xml:space="preserve">  <tspan fill="#A78BFA">casaDeEstudio</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#E9D5FF">&quot;INACAP&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="140" text-anchor="end" fill="#4C3A78">5</text>
+    <text x="46" y="140" xml:space="preserve">  <tspan fill="#A78BFA">desde</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#E9D5FF">&quot;Río Bueno, Chile&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="159" text-anchor="end" fill="#4C3A78">6</text>
+    <text x="46" y="159" xml:space="preserve">  <tspan fill="#A78BFA">construyendo</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#7C6AA8">[</tspan></text>
+    <text x="34" y="178" text-anchor="end" fill="#4C3A78">7</text>
+    <text x="46" y="178" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Aplicaciones full stack&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="197" text-anchor="end" fill="#4C3A78">8</text>
+    <text x="46" y="197" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Herramientas administrativas&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="216" text-anchor="end" fill="#4C3A78">9</text>
+    <text x="46" y="216" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Automatización y escritorio&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="235" text-anchor="end" fill="#4C3A78">10</text>
+    <text x="46" y="235" xml:space="preserve">  <tspan fill="#7C6AA8">]</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="254" text-anchor="end" fill="#4C3A78">11</text>
+    <text x="46" y="254" xml:space="preserve">  <tspan fill="#A78BFA">aprendiendo</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#7C6AA8">[</tspan></text>
+    <text x="34" y="273" text-anchor="end" fill="#4C3A78">12</text>
+    <text x="46" y="273" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Arquitectura de software&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="292" text-anchor="end" fill="#4C3A78">13</text>
+    <text x="46" y="292" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Seguridad de aplicaciones&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="311" text-anchor="end" fill="#4C3A78">14</text>
+    <text x="46" y="311" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;DevOps&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="330" text-anchor="end" fill="#4C3A78">15</text>
+    <text x="46" y="330" xml:space="preserve">  <tspan fill="#7C6AA8">]</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="349" text-anchor="end" fill="#4C3A78">16</text>
+    <text x="46" y="349" xml:space="preserve">  <tspan fill="#A78BFA">meta</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#E9D5FF">&quot;Ingeniería de Software&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="368" text-anchor="end" fill="#4C3A78">17</text>
+    <text x="46" y="368" xml:space="preserve">  <tspan fill="#A78BFA">fueraDelCodigo</tspan><tspan fill="#7C6AA8">:</tspan> <tspan fill="#7C6AA8">[</tspan></text>
+    <text x="34" y="387" text-anchor="end" fill="#4C3A78">18</text>
+    <text x="46" y="387" xml:space="preserve">    <tspan fill="#E9D5FF">&quot;Lectura&quot;</tspan><tspan fill="#7C6AA8">,</tspan> <tspan fill="#E9D5FF">&quot;Videojuegos&quot;</tspan><tspan fill="#7C6AA8">,</tspan> <tspan fill="#E9D5FF">&quot;WoW&quot;</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="406" text-anchor="end" fill="#4C3A78">19</text>
+    <text x="46" y="406" xml:space="preserve">  <tspan fill="#7C6AA8">]</tspan><tspan fill="#7C6AA8">,</tspan></text>
+    <text x="34" y="425" text-anchor="end" fill="#4C3A78">20</text>
+    <text x="46" y="425" xml:space="preserve"><tspan fill="#7C6AA8">}</tspan><tspan fill="#7C6AA8">;</tspan></text>
+  </g>
+</svg>

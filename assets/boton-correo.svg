@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="64" viewBox="0 0 282 64" shape-rendering="crispEdges" role="img" aria-label="Correo: osvaldouhart@hotmail.com">
+  <!-- Sombra pixelada -->
+  <polygon transform="translate(4 4)" fill="#2E1065" points="4,0 274,0 274,4 278,4 278,56 274,56 274,60 4,60 4,56 0,56 0,4 4,4" />
+  <!-- Borde y fondo con esquinas escalonadas -->
+  <polygon fill="#8B5CF6" points="4,0 274,0 274,4 278,4 278,56 274,56 274,60 4,60 4,56 0,56 0,4 4,4" />
+  <polygon fill="#140D26" points="8,4 270,4 270,8 274,8 274,52 270,52 270,56 8,56 8,52 4,52 4,8 8,8" />
+  <rect x="8" y="4" width="262" height="3" fill="#2A1A52" />
+
+  <!-- Icono de sobre en pixel-art -->
+  <g transform="translate(16 12)">
+    <path fill="#E9D5FF" d="M0 6h36v3h-36zM0 9h3v3h-3zM6 9h24v3h-24zM33 9h3v3h-3zM0 12h6v3h-6zM9 12h18v3h-18zM30 12h6v3h-6zM0 15h9v3h-9zM12 15h12v3h-12zM27 15h9v3h-9zM0 18h12v3h-12zM15 18h6v3h-6zM24 18h12v3h-12zM0 21h15v3h-15zM21 21h15v3h-15zM0 24h36v3h-36zM0 27h36v3h-36z" />
+    <path fill="#7C3AED" d="M3 9h3v3h-3zM30 9h3v3h-3zM6 12h3v3h-3zM27 12h3v3h-3zM9 15h3v3h-3zM24 15h3v3h-3zM12 18h3v3h-3zM21 18h3v3h-3zM15 21h6v3h-6z" />
+  </g>
+
+  <!-- Textos -->
+  <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" text-rendering="geometricPrecision">
+    <text x="64" y="29" font-size="16" font-weight="700" fill="#F3E8FF">Escríbeme</text>
+    <text x="64" y="46" font-size="12" fill="#C084FC">osvaldouhart@hotmail.com</text>
+  </g>
+</svg>
