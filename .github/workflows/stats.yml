@@ -1,5 +1,5 @@
-# Actualiza la tarjeta de lenguajes del perfil una vez al dia
-name: Actualizar lenguajes
+# Actualiza la ventana de stats del perfil una vez al dia
+name: Actualizar stats
 
 on:
   schedule:
@@ -11,20 +11,20 @@ permissions:
   contents: write
 
 jobs:
-  lenguajes:
+  stats:
     runs-on: ubuntu-latest
     steps:
       - name: Descargar el repo
         uses: actions/checkout@v4
 
-      - name: Generar el SVG de lenguajes
+      - name: Generar el SVG de stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generar_lenguajes.py
+        run: python3 scripts/generar_stats.py
 
       - name: Subir el SVG si cambio
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/lenguajes.svg
-          git diff --staged --quiet || (git commit -m "chore: Se actualizan los lenguajes del perfil" && git push)
+          git add assets/stats.svg
+          git diff --staged --quiet || (git commit -m "chore: Se actualizan las stats del perfil" && git push)

@@ -18,10 +18,7 @@
   <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Django. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite, Resend. IA: Claude, OpenAI Codex." />
   <br /><br />
   <!-- Estadisticas de GitHub -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsvaDev-HUB&theme=midnight_purple" width="776" alt="Contribuciones de GitHub en el último año" />
-  <br />
-  <img width="450" src="https://streak-stats.demolab.com?user=OsvaDev-HUB&locale=es&hide_current_streak=true&background=140D26&border=8B5CF6&ring=C084FC&fire=C084FC&currStreakNum=F3E8FF&sideNums=F3E8FF&currStreakLabel=C084FC&sideLabels=A78BFA&dates=7C6AA8&stroke=3B2A66&border_radius=0" alt="Contribuciones totales y racha más larga" />
-  <img width="322" src="./assets/lenguajes.svg" alt="Lenguajes más usados en mis repositorios públicos" />
+  <img src="./assets/stats.svg" width="776" alt="Stats de GitHub de OsvaDev-HUB: contribuciones, racha más larga, repos públicos, seguidores y lenguajes más usados en repos públicos" />
   <br /><br />
   <sub>Hecho con curiosidad desde Río Bueno, Chile 🇨🇱</sub>
 </div>
