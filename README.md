@@ -18,7 +18,13 @@
   <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Kotlin, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Django. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite, Resend. IA: Claude, OpenAI Codex." />
   <br /><br />
   <!-- Estadisticas de GitHub -->
-  <img src="./assets/stats.svg" width="776" alt="Stats de GitHub de OsvaDev-HUB: contribuciones, racha más larga, repos públicos, seguidores y lenguajes más usados en repos públicos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsvaDev-HUB&theme=midnight_purple" width="776" alt="Contribuciones de GitHub en el último año" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsvaDev-HUB&theme=midnight_purple" width="386" alt="Lenguajes por repositorio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsvaDev-HUB&theme=midnight_purple&utcOffset=-3" width="386" alt="Horario de commits en hora de Chile" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsvaDev-HUB&theme=midnight_purple" width="386" alt="Estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsvaDev-HUB&theme=midnight_purple" width="386" alt="Lenguajes por commit" />
   <br /><br />
   <sub>Hecho con curiosidad desde Río Bueno, Chile 🇨🇱</sub>
 </div>

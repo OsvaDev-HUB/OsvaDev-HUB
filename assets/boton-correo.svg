@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="274" height="64" viewBox="0 0 274 64" shape-rendering="crispEdges" role="img" aria-label="Correo: osvaldouhart@hotmail.com">
   <!-- Sombra pixelada -->
-  <polygon transform="translate(4 4)" fill="#2E1065" points="4,0 266,0 266,4 270,4 270,56 266,56 266,60 4,60 4,56 0,56 0,4 4,4" />
+  <polygon transform="translate(4 4)" fill="#000000" points="4,0 266,0 266,4 270,4 270,56 266,56 266,60 4,60 4,56 0,56 0,4 4,4" />
   <!-- Borde y fondo con esquinas escalonadas -->
-  <polygon fill="#8B5CF6" points="4,0 266,0 266,4 270,4 270,56 266,56 266,60 4,60 4,56 0,56 0,4 4,4" />
-  <polygon fill="#140D26" points="8,4 262,4 262,8 266,8 266,52 262,52 262,56 8,56 8,52 4,52 4,8 8,8" />
-  <rect x="8" y="4" width="254" height="3" fill="#2A1A52" />
+  <polygon fill="#2B2140" points="4,0 266,0 266,4 270,4 270,56 266,56 266,60 4,60 4,56 0,56 0,4 4,4" />
+  <polygon fill="#08060E" points="8,4 262,4 262,8 266,8 266,52 262,52 262,56 8,56 8,52 4,52 4,8 8,8" />
+  <rect x="8" y="4" width="254" height="3" fill="#1B1430" />
 
   <!-- Icono de sobre en pixel-art -->
   <g transform="translate(16 12)">

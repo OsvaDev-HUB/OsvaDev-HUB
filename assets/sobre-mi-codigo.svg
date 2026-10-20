@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="428" height="452" viewBox="0 0 428 452" shape-rendering="crispEdges" role="img" aria-label="Sobre mí: Analista Programador y desarrollador full stack de Río Bueno, Chile. Estudia en INACAP. Construye aplicaciones full stack, herramientas administrativas y automatización. Aprende arquitectura de software, seguridad de aplicaciones y DevOps. Meta: Ingeniería de Software.">
   <!-- Sombra pixelada -->
-  <polygon transform="translate(4 4)" fill="#2E1065" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
+  <polygon transform="translate(4 4)" fill="#000000" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
   <!-- Borde y fondo con esquinas escalonadas -->
-  <polygon fill="#8B5CF6" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
-  <polygon fill="#140D26" points="8,4 416,4 416,8 420,8 420,440 416,440 416,444 8,444 8,440 4,440 4,8 8,8" />
+  <polygon fill="#2B2140" points="4,0 420,0 420,4 424,4 424,444 420,444 420,448 4,448 4,444 0,444 0,4 4,4" />
+  <polygon fill="#08060E" points="8,4 416,4 416,8 420,8 420,440 416,440 416,444 8,444 8,440 4,440 4,8 8,8" />
 
   <!-- Barra de pestañas con el archivo abierto -->
-  <rect x="4" y="4" width="416" height="30" fill="#1E1238" />
-  <rect x="4" y="4" width="130" height="30" fill="#140D26" />
+  <rect x="4" y="4" width="416" height="30" fill="#120C1E" />
+  <rect x="4" y="4" width="130" height="30" fill="#08060E" />
   <rect x="4" y="4" width="130" height="3" fill="#C084FC" />
   <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" text-rendering="geometricPrecision">
     <text x="18" y="24" font-size="12" fill="#E9D5FF">sobre-mi.js</text>
