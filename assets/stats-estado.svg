@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="776" height="34" viewBox="0 0 776 34" shape-rendering="crispEdges" role="img" aria-label="Datos en vivo de mi actividad en GitHub">
+  <!-- Sombra, borde y fondo de la barra -->
+  <polygon transform="translate(4 4)" fill="#000000" points="4,0 768,0 768,4 772,4 772,26 768,26 768,30 4,30 4,26 0,26 0,4 4,4"/>
+  <polygon fill="#2B2140" points="4,0 768,0 768,4 772,4 772,26 768,26 768,30 4,30 4,26 0,26 0,4 4,4"/>
+  <polygon fill="#08060E" points="8,4 764,4 764,8 768,8 768,22 764,22 764,26 8,26 8,22 4,22 4,8 8,8"/>
+  <!-- Punto pixelado de "en vivo" -->
+  <path fill="#A855F7" d="M20 12h4v2h-4zM18 14h8v4h-8zM20 18h4v2h-4z"/>
+  <g font-family="'JetBrains Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="11" text-rendering="geometricPrecision">
+    <text x="34" y="20" fill="#A78BFA">Datos en vivo de mi actividad en GitHub</text>
+  </g>
+</svg>
