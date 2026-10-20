@@ -15,7 +15,7 @@
   <img src="./assets/dialogo.svg" width="776" alt="Osvaldo dice: Transformo problemas reales en software confiable, desde interfaces cuidadas y APIs seguras hasta bases de datos, automatización y herramientas de escritorio. Me gusta entender cada problema de principio a fin. Estoy abierto a colaborar y a proyectos de código abierto. Siempre creando. Siempre aprendiendo. Siempre avanzando." />
   <br /><br />
   <!-- Stack -->
-  <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Django. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite, Resend. IA: Claude, OpenAI Codex." />
+  <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Kotlin, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Django. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite, Resend. IA: Claude, OpenAI Codex." />
   <br /><br />
   <!-- Estadisticas de GitHub -->
   <img src="./assets/stats.svg" width="776" alt="Stats de GitHub de OsvaDev-HUB: contribuciones, racha más larga, repos públicos, seguidores y lenguajes más usados en repos públicos" />
