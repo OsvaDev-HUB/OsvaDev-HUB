@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.webp" width="100%" alt="OsvaDev-HUB · Full Stack Developer · Linux Enthusiast" />
+  <img src="./assets/banner.svg" width="776" alt="OsvaDev-HUB. Full Stack Developer y Linux Enthusiast desde Río Bueno, Chile" />
   <br /><br />
   <a href="https://www.osvadevhub.cl/"><img src="./assets/boton-portafolio.svg" width="564" alt="Visita mi portafolio en osvadevhub.cl" /></a>
   <br />
@@ -15,15 +15,13 @@
   <img src="./assets/sobre-mi-imagen.svg" width="344" alt="Ilustración pixel-art de Osvaldo programando de noche con luces moradas" />
   <img src="./assets/sobre-mi-codigo.svg" width="428" alt="Sobre mí en código: Analista Programador y desarrollador full stack de Río Bueno, Chile. Estudia en INACAP, construye aplicaciones full stack, herramientas administrativas y automatización, y aprende arquitectura de software, seguridad de aplicaciones y DevOps." />
   <br /><br />
-  <i>"Siempre creando. Siempre aprendiendo. Siempre avanzando."</i>
+  <img src="./assets/dialogo.svg" width="776" alt="Osvaldo dice: Transformo problemas reales en software confiable, desde interfaces cuidadas y APIs seguras hasta bases de datos, automatización y herramientas de escritorio. Me gusta entender cada problema de principio a fin. Estoy abierto a colaborar y a proyectos de código abierto. Siempre creando. Siempre aprendiendo. Siempre avanzando." />
 </div>
-
-Transformo problemas operativos reales en software confiable: desde interfaces cuidadas y APIs seguras hasta bases de datos, automatización y herramientas de escritorio. Disfruto entender un problema de principio a fin, desde la experiencia de usuario hasta el modelo de datos. Estoy abierto a colaborar y a sumarme a proyectos de código abierto.
 
 ## `~/stack`
 
 <div align="center">
-  <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Resend. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite. IA: Claude, OpenAI Codex." />
+  <img src="./assets/stack.svg" width="776" alt="Stack. Lenguajes: JavaScript, TypeScript, Python, Go, PHP. Frontend: HTML, CSS, Tailwind CSS, React, Next.js. Backend: Node.js, Express, Laravel, Django. Datos: PostgreSQL, Supabase, MongoDB, MySQL. Despliegue: Docker, GitHub Actions, Vercel, Railway. Herramientas: Git, Linux, VS Code, Vite, Resend. IA: Claude, OpenAI Codex." />
 </div>
 
 ## `~/estadisticas-github`
