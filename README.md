@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ouhart/"><img src="./assets/boton-linkedin.svg" width="204" alt="LinkedIn: in/ouhart" /></a>
   <a href="mailto:osvaldouhart@hotmail.com"><img src="./assets/boton-correo.svg" width="274" alt="Correo: osvaldouhart@hotmail.com" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=OsvaDev-HUB&style=for-the-badge&color=8B5CF6&label=visitas%20al%20perfil" alt="Visitas al perfil" />
+  <img src="https://hits.sh/github.com/OsvaDev-HUB.svg?style=for-the-badge&label=visitas%20al%20perfil&color=8B5CF6&labelColor=120C1E" alt="Visitas al perfil" />
   <br /><br />
   <!-- Sobre mi -->
   <img src="./assets/sobre-mi-imagen.svg" width="344" alt="Ilustración pixel-art de Osvaldo programando de noche con luces moradas" />
@@ -20,7 +20,7 @@
   <!-- Estadisticas de GitHub -->
   <img src="./assets/stats-titulo.svg" width="776" alt="Stats de GitHub de OsvaDev-HUB" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsvaDev-HUB&theme=midnight_purple" width="776" alt="Contribuciones de GitHub en el último año" />
+  <img src="https://streak-stats.demolab.com/?user=OsvaDev-HUB&locale=es&card_width=776&card_height=200&hide_border=true&background=000000&stroke=2B2140&ring=A855F7&fire=C084FC&currStreakNum=F3E8FF&sideNums=F3E8FF&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A78BFA&date_format=j%20M%5B%20Y%5D" width="776" alt="Contribuciones totales y rachas de commits" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsvaDev-HUB&theme=midnight_purple" width="386" alt="Lenguajes por repositorio" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsvaDev-HUB&theme=midnight_purple&utcOffset=-3" width="386" alt="Horario de commits en hora de Chile" />
